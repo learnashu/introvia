@@ -1,0 +1,112 @@
+*{
+   margin: 0;
+   padding: 0;   
+    
+}
+    body{
+    background-color: black;
+    font-family: 'Lato', sans-serif;
+
+}
+header{
+
+    background-color: black;
+    color: white;
+    height: 220px;
+    
+    
+}
+header span{
+    color: orange;
+}
+header h6{
+   
+    float: right;
+    margin-right: 15px;
+    font-size: 16px;
+
+}
+#heading{
+
+    color: white;
+    font-size: 35;
+    margin-left: 20px;
+}
+
+header h1{
+
+    padding: 120px 2px 9px 3px;
+    font-size: 56;
+    margin-left: 15px;
+}
+
+aside{
+    background-color: black;
+    height: 400px;
+}
+#colormate{
+
+      color: white;
+      padding: 150px 2px 9px 3px;
+      margin-left: 300px;
+
+
+}
+#colormate2{
+      color: white;
+      float: left;
+      margin-left: 700px;
+      padding: 2px 2px 20px 3px;
+      font-weight: 400;
+}
+#colormate3{
+
+    color: white;
+    margin-left: 710px;
+    padding: 0 10px 0 0;
+    font-weight: 600;
+}
+
+
+#footer1{
+    color: black;
+    font-size: 16px;
+    margin-left: 15px;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+footer{
+    background-color: grey;
+    height: 25px;
+    
+}
